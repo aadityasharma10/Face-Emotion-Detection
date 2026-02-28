@@ -1,0 +1,4 @@
+train/
+test/
+*.h5
+__pycache__/
